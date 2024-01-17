@@ -5,6 +5,7 @@
 - Microchip Studio IDE compatible
 - Pull type logic for pull up or pull down external resistor logic
 - Easy to use, just the run() function in loop and isPressed() to check if button is pressed
+- Debounce time of 100 milliseconds set as default
 
 ## Tested on
 - ATmega328P @16MHz
